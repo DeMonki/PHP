@@ -1,10 +1,13 @@
 <?php 
 echo "YO \n";
 
-echo  "type your name in for me: \n";
 
-$name = trim(fgets(STDIN));
+$age = 51;
 
-echo "\n Thanks, " . $name . "Nice to meet you. \n\n";
+
+echo "\n My name is  $name  \n 
+and I am $age \n";
+
+
 
  ?>
